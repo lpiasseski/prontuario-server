@@ -1,0 +1,52 @@
+1	sogro
+2	sogra
+3	rafa
+4	mariana
+5	carlos
+6	agtha
+7	wagner
+8	mara
+9	mae
+10	eu
+11	fer
+
+12	vô da fer
+
+13	rodrigo -ok
+14	denise - ok
+15	lando - ok
+16	thales - vai pensar
+17	cristiano - ok
+18	Marcio - ok
+19	nilce - ok
+20	Rogerio
+21      eposa rogerio
+22      Gustavo
+22	Mario
+23      esposa do mario
+24      Crianças (Artur/giovanna/miguel/)
+
+
+CupCake: 125
+Salgadinho Frito   : 150
+Salgadinhos Assados: 150
+
+Refri   : 5 garrafas 2l
+Agura   : 5 garrafas
+Cha mate: 5 garrafas
+Cerveja : 5 caixas
+
+. Aperitivo: 
+Tomatinho com queijo
+
+. Fritos:
+Risoles de Carne=50
+Kibe = 50
+coxinha = 50
+
+. Assados:
+Sfiha de Carne = 40
+Pastel Assado de Palmito = 40
+Folhado de Ricota com Tomate Seco = 30
+Mini Quiche = 40
+
